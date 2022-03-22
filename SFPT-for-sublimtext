@@ -7,3 +7,4 @@ Create a new folder named SFTP
 Download the SFTP.sublime-package for Sublime Text 3 on Windows
 Rename the file to SFTP.zip and extract it into the folder created during step 2
 Restart Sublime Text
+File/SFTP ->set up serveur :
