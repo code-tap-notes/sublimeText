@@ -47,3 +47,5 @@ File/SFTP ->set up serveur :
     //"remote_locale": "C",
     //"allow_config_upload": false,
 }
+Save file sftp-config.json
+Đứng tại project bấm chuột phải, map remote, chỉnh upload-on-save (mỗi khi lưu kết quả sẽ được upload vào reseau .
